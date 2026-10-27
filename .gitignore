@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python virtual environment
+venv/
+.venv/
+
